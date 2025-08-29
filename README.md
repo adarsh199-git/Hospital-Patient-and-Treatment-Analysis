@@ -23,7 +23,7 @@ It can help simulate real-world healthcare reporting scenarios, such as understa
 4. Department & doctor performance.
 5. Interactive filters (slicers).
 # Power BI dashboard:
-
+![image alt](https://github.com/adarsh199-git/Hospital-Patient-and-Treatment-Analysis/blob/9e6955f47b962df863194e413f5f7fc3224249a0/DA1.png)
 
 
 
