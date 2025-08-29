@@ -27,6 +27,7 @@ It can help simulate real-world healthcare reporting scenarios, such as understa
 # Other Screenshots
 ![image_alt](https://github.com/Kewal3112-satr/Data_Analysis-Dashboard/blob/dddab2f8ce0bf0c1c616ee89bd5942ec5fd0d799/DA2.png)
 ![image_alt](https://github.com/adarsh199-git/Hospital-Patient-and-Treatment-Analysis/blob/main/Screenshot%202025-08-29%20151653.png)
+![image_alt](https://github.com/adarsh199-git/Hospital-Patient-and-Treatment-Analysis/blob/main/DA3.png)
 
 
 
